@@ -1,1 +1,2 @@
-cout<< "fsdlg"<<endl;
+icout<< "fsdlg"<<end:
+bbbbbbbbbbbbbbbbbbbbbbb
